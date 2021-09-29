@@ -12,8 +12,8 @@ export default class App extends Component {
         {title:"Pictures",_id:0,time:"6:30 PM", line: 1},
         {title:"Dinner",_id:1,time:"7:15 PM", line: 1},
         {title:"Dance",_id:2,time:"8:00 PM", line: 1},
-        {title:"Castle of Chaos",_id:3,time:"10:00-11:00 PM", line: 1},
-        {title:"Sam's House",_id:4,time:"12:00-1:00 AM", line: 0}
+        {title:"Castle of Chaos",_id:3,time:"11:00 PM", line: 1},
+        {title:"Sam's House",_id:4,time:"1:00 AM", line: 0}
       ]
     }
   };
