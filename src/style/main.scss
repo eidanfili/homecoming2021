@@ -43,6 +43,10 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  &_title {
+    padding-right: 2vw;
+  }
 }
 
 .activity_cont {
