@@ -65,7 +65,7 @@ module.exports = webpackMerge(webpackCommon, {
     }),
     new HtmlWebpackPlugin({
       inject: true,
-      template: path.resolve(__dirname, '../static/index.html'),
+      template: '../static/index.html',
     }),
     new HotModuleReplacementPlugin()
   ],
